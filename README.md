@@ -13,4 +13,4 @@ Penjelasan jalannya Program
    tercetak nilai [c].
 7. Nilai yang tercetak adalah nilai yang terbesar.
 
-![URL](Screenshot/Screenshot.jpg)
+![URL](Screenshot/Screenshot.Jpg)
