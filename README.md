@@ -1,4 +1,4 @@
-# labpy1
+# labpy2
 Penjelasan jalannya Program
 1. Masukkan bilangan sebanyak tiga buah bilangan.
 2. Setelah bilangan dimasukan/diinputkan, maka program akan membandingkan ke 3 
@@ -12,3 +12,5 @@ Penjelasan jalannya Program
 6. Apabila perbandingan kedua tersebut bernilai false, maka akan 
    tercetak nilai [c].
 7. Nilai yang tercetak adalah nilai yang terbesar.
+
+![URL](Screenshot/Screenshot.png)
